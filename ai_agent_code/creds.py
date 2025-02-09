@@ -1,0 +1,4 @@
+api_key = "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"
+
+
+api_key_elevenlabs = "sk_0f101422a818750e032a0d58fa2dc92b60d47352da72f157"
