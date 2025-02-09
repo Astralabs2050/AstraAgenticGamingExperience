@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AstraAIAgent.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealProjects\Libs\Intermediate\Build\Win64\LibsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\UnrealProjects\Libs\Plugins\AstraAIAgent\Intermediate\Build\Win64\UE4Editor\Development\AstraAIAgent\Module.AstraAIAgent.cpp.obj"
+"E:\UnrealProjects\Libs\Plugins\AstraAIAgent\Intermediate\Build\Win64\UE4Editor\Development\AstraAIAgent\Module.AstraAIAgent.gen.cpp.obj"
+"E:\UnrealProjects\Libs\Plugins\AstraAIAgent\Intermediate\Build\Win64\UE4Editor\Development\AstraAIAgent\Default.rc2.res"
+/OUT:"E:\UnrealProjects\Libs\Plugins\AstraAIAgent\Intermediate\Build\Win64\UE4Editor\Development\AstraAIAgent\UE4Editor-AstraAIAgent.lib"
