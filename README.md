@@ -35,7 +35,7 @@ Installation & Setup
 
 Prerequisites
 
-Unreal Engine (UE5 or later)
+Unreal Engine (UE 4.27)
 
 Python (for AI agent integration)
 
